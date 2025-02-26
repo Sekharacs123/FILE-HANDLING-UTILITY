@@ -4,7 +4,7 @@ class FileHandling {
      {
         try {
             FileWriter fw = new FileWriter("D://hello.txt");
-            fw.write("PYTHON DEVELOPER INTERNSHIP");
+            fw.write("PYTHON PROGRAMMING INTERNSHIP");
             fw.close();
             System.out.println("File written successfully.");
         } catch (Exception h) 

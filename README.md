@@ -20,3 +20,5 @@ Error Handling: Includes exception handling for robust performance.
 *Technologies Used*:
 java version "23" 2024-09-17,
 VS Code: IDE for writing and debugging code.
+
+*output*:![Image](https://github.com/user-attachments/assets/698d905f-52dc-4752-b1c2-499c4b0fc8b7)

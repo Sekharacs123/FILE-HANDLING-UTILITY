@@ -23,6 +23,10 @@ VS Code: IDE for writing and debugging code.
 
 *output 1*:![Image](https://github.com/user-attachments/assets/698d905f-52dc-4752-b1c2-499c4b0fc8b7)
 
-*output 2*:![image](https://github.com/user-attachments/assets/a57de121-fd2e-4f57-a0d5-17ba0255ad3a)
+
+
+*output 2*:
+
+![image](https://github.com/user-attachments/assets/a57de121-fd2e-4f57-a0d5-17ba0255ad3a)
 
 
